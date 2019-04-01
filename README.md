@@ -20,7 +20,7 @@
 ### GC
 #### 垃圾回收器
 #### [String对象处理](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/string.md)
-#### 缓存问题
+#### [缓存问题](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/cache.md)
 #### GC优化的原则
 ### 其他：
 #### 缓存推荐
