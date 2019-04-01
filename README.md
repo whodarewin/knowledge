@@ -1,7 +1,7 @@
 # 知识体系
-## [软件评价体系](https://github.com/whodarewin/knowledge_hierarchy/blob/master/evaluation/)
+## 软件评价体系
 ### [QPS,SLA...](https://github.com/whodarewin/knowledge_hierarchy/blob/master/evaluation/evaluation.md)
-### 其余代码检测工具
+### [其余代码检测工具](https://github.com/whodarewin/knowledge_hierarchy/blob/master/evaluation/tool.md)
 ## 高性能
 ### IO
 #### BIO
@@ -18,8 +18,8 @@
 ##### cas锁机制
 #### 可见性
 ### GC
-#### 垃圾回收器选择
-#### String对象处理
+#### 垃圾回收器
+#### [String对象处理](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/string.md)
 #### 缓存问题
 #### GC优化的原则
 ### 其他：
@@ -35,6 +35,7 @@
 #### RAFT
 #### 基于队列
 ### 负载均衡
+### 降级熔断限流
 ## 数据库
 ### 模型
 #### BTree
