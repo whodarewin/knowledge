@@ -45,13 +45,14 @@
 #### LSM树
 #### 基于内存的数据库
 ## 算法
-### array
+### array&链表
 ### 哈希表
 ### 红黑树
 ### 跳表
-## [代码设计](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/string.md)
+## [代码设计](https://github.com/whodarewin/knowledge_hierarchy/blob/master/code/design.md)
 ## 常用工程架构
 ### rpc系统
 ### 队列系统
 ### 分布式调度系统
 ### 分布式配置系统
+## 关于技术的落地
