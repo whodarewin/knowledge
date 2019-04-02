@@ -1,4 +1,4 @@
-#缓存推荐
+# 缓存推荐
 ## 传统的guava cache
     想必这个是大家最熟知的guava cache了，作为最古老的LRU cache，现在仍然在很多系统中运行，对其介绍如下。
     1. guava cache定义了cache创建的接口模式，并在后续新型cache中。
