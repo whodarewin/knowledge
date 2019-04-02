@@ -7,7 +7,7 @@
 #### [BIO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/BIO.md)
 #### [NIO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/NIO.md)
 #### [AIO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/AIO.md)
-#### 由三种IO模式引起的编程模式
+#### IO设计模式
 #### 零拷贝
 #### 顺序读写
 ### 网络
@@ -18,6 +18,7 @@
 #### 锁竞争
 ##### 传统悲观锁
 ##### cas锁机制
+##### [死锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/dead_lock.md)
 #### 可见性
 ### GC
 #### 垃圾回收器
@@ -48,7 +49,7 @@
 ### 哈希表
 ### 红黑树
 ### 跳表
-## 代码设计
+## [代码设计](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/string.md)
 ## 常用工程架构
 ### rpc系统
 ### 队列系统
