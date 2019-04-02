@@ -7,6 +7,7 @@
 #### [BIO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/BIO.md)
 #### [NIO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/NIO.md)
 #### AIO
+#### 由三种IO模式引起的编程模式
 #### 零拷贝
 #### 顺序读写
 ### 网络
@@ -24,7 +25,7 @@
 #### [缓存问题](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/cache.md)
 #### GC优化的原则
 ### 其他：
-#### 缓存推荐
+#### [缓存推荐](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/cache_recommend.md)
 #### 线程数计算
 ## 分布式
 ### 有状态与无状态
