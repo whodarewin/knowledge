@@ -23,6 +23,8 @@
 	    - 零拷贝
 	    - 顺序读写
 	    - 缓存
+	        - 缓存分层
+	        - 缓存一致性问题
 	        - [缓存推荐](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/cache_recommend.md)
 - CPU
 ```如何让CPU更快的运算你的逻辑```
@@ -73,7 +75,7 @@
     - 峰值流量处理
         - 降级熔断限流
         - 写入缓冲
-    - 监控与报警（重要重要重要，不重视监控系统的公司，一定是对技术有误解的公司）
+    - 监控与报警与日志（重要重要重要，不重视监控系统的公司，一定是对技术有误解的公司）
     
 
 ## 数据库 ##
@@ -119,6 +121,8 @@
 - 假头脑风暴
 - MD比doc好用
 - 一个有经验的程序员真的顶好几个无经验的程序员吗？
+- 形式主义与实用主义
+- 架构师为何喜欢看别人的分享：使用别人的经验降低自己的试错成本及必须要注意的问题
 
 ## [关于技术的落地](https://github.com/whodarewin/knowledge_hierarchy/blob/master/achievement/achievement.md)
 
