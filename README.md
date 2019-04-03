@@ -11,10 +11,9 @@
 
 - IO
 ```如何使用最少的资源，从IO设备搬运最多的字节```
-    - [物理层的演进](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/)
-    - [协议层的演进](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/)
-        - TCP/IP协议及其演进
-        - HTTP及其演进
+    - [物理层的演进](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/physical_layer.md)
+    - 协议层的演进
+        - [HTTP及其演进]()
     - [应用层的演进](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/)
 	    - [BIO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/BIO.md)
 	    - [NIO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/NIO.md)
@@ -54,11 +53,14 @@
     	    - [缓存问题](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/cache.md)
     	    - 堆外内存
     	    - gc分析
-- linux 调优
+- linux 
+    - 容器化技术
+        - cgroup
+        - docker
         	        
 - 其他：
     - java 高性能的那点事
-        - wait notify的不足与LockSupport的应用
+        - [wait notify的不足与LockSupport的应用](https://issues.apache.org/jira/browse/HBASE-21628)
     - 高性能存在的窘态
     
 ## 高可用 ##
@@ -95,7 +97,10 @@
 	- LSM树
 	- 基于内存的数据库
 	    - redis
-
+- 时序数据库
+    - opentsdb
+    - druid
+    - 
 ## 算法 ##
 ```如何更快的执行你的业务逻辑+锻炼你的程序员大脑```
 -工程用的多的
@@ -123,10 +128,13 @@
     - SOA
     - 微服务
 
+# 流程 #
+- 故障处理流程
+- 需求流程
+- 流量增加
+
 ## 程序员的日常
 ```方法论与屁事碎碎念```
-- 接到需求后应该先干什么
-- 故障处理
 - 心态的稳定
 - 目标与杂事
 - 故障驱动型优化
