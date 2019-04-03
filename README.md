@@ -40,13 +40,22 @@
 		    - cas锁机制
 		    - [死锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/dead_lock.md)
 		    - 线程数计算
-        - GC
-            - GC优化的原则
-	        - 垃圾回收器
-	        - [String对象处理](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/string.md)
-	        - [缓存问题](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/cache.md)
-	        - 堆外内存
-	        
+	    - 异步编程
+	        - 介绍
+	        - 基于队列的快速回调
+- java 优化
+    - java 性能分析
+        - 锁竞争
+        - 方法执行时长
+    - GC
+        - GC优化的原则
+    	    - 垃圾回收器
+    	    - [String对象处理](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/string.md)
+    	    - [缓存问题](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/cache.md)
+    	    - 堆外内存
+    	    - gc分析
+- linux 调优
+        	        
 - 其他：
     - java 高性能的那点事
         - wait notify的不足与LockSupport的应用
@@ -85,16 +94,19 @@
 - KV数据库
 	- LSM树
 	- 基于内存的数据库
+	    - redis
 
 ## 算法 ##
 ```如何更快的执行你的业务逻辑+锻炼你的程序员大脑```
-- array&链表
-- 哈希表
-- 红黑树
-- 跳表
-- 布隆过滤器
-- 杨氏矩阵
-- bitmap
+-工程用的多的
+    - array&链表
+    - 哈希表
+    - 红黑树
+    - 跳表
+    - 布隆过滤器
+    - 杨氏矩阵
+    - bitmap
+-其余的
 
 ## [代码设计](https://github.com/whodarewin/knowledge_hierarchy/blob/master/code/design.md)
 ```如何解决代码后续可读性，维护性问题```
