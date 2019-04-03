@@ -43,23 +43,36 @@
 	        - 垃圾回收器
 	        - [String对象处理](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/string.md)
 	        - [缓存问题](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/cache.md)
+	        - 堆外内存
 	        
 - 其他：
+    - java 高性能的那点事
+        - wait notify的不足与LockSupport的应用
     - 高性能存在的窘态
 
 ## 分布式 ##
-```如何解决单机无法解决的问题```
-- 有状态与无状态
-- 副本机制
-- 一致性
-    - CAP
-    - BASE理论
-    - PAXOS
-	- RAFT
-	- 基于队列
-- 负载均衡
-- 降级熔断限流
-
+```如何解决单机无法解决的问题（稳定性，高计算量）```
+- 基础
+    - 数据传输
+    - 负载均衡
+    - 有状态与无状态
+- 分布式计算
+    - 无状态计算
+    - MR
+    - 流式计算
+- 稳定性
+    - 峰值流量处理
+        - 降级熔断限流
+        - 写入缓冲
+    - 副本机制
+    - 一致性
+        - CAP
+        - BASE理论
+        - PAXOS
+    	- RAFT
+    	- 基于队列
+    - 监控与报警（重要重要重要，不重视监控系统的公司，一定是对技术有误解的公司）
+    
 
 ## 数据库 ##
 ```如何解决数据快速落地与个性化查询的问题```
@@ -77,24 +90,38 @@
 - 跳表
 - 布隆过滤器
 - 杨氏矩阵
-
-
+- bitmap
 
 ## [代码设计](https://github.com/whodarewin/knowledge_hierarchy/blob/master/code/design.md)
 ```如何解决代码后续可读性，维护性问题```
+- 基于领域模型的代码设计
+- 性能与设计的权衡
 - 代码设计的窘态
 
 ## 团队合作
 ```如何在技术上激发各个团队人员的积极性，降低沟通成本```
-- 单体架构
-- SOA
-- 微服务
+- 工作流程
+    - git工作流
+- 服务拆分
+    - 单体架构
+    - SOA
+    - 微服务
+
+## 程序员的日常
+```方法论与屁事碎碎念```
+- 接到需求后应该先干什么
+- 故障处理
+- 心态的稳定
+- 目标与杂事
+- 故障驱动型优化
+- 假头脑风暴
+- MD比doc好用
+- 一个有经验的程序员真的顶好几个无经验的程序员吗？
+
+## [关于技术的落地](https://github.com/whodarewin/knowledge_hierarchy/blob/master/achievement/achievement.md)
 
 ## 常用工程架构
 - rpc系统
 - 队列系统
 - 分布式调度系统
 - 分布式配置系统
-
-
-## [关于技术的落地](https://github.com/whodarewin/knowledge_hierarchy/blob/master/achievement/achievement.md)
