@@ -25,6 +25,7 @@
 	        - 缓存分层
 	        - 缓存一致性问题
 	        - [缓存推荐](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/cache_recommend.md)
+
 - CPU
 ```如何让CPU更快的运算你的逻辑```
     - CPU的演进
@@ -39,7 +40,7 @@
 		    - cas锁机制
 		    - [死锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/dead_lock.md)
 		    - 线程数计算
-	    - 异步编程
+	    - 异步编程之于IO
 	        - 介绍
 	        - 基于队列的快速回调
 - java 优化
@@ -50,6 +51,7 @@
         - GC优化的原则
     	    - 垃圾回收器
     	    - [String对象处理](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/string.md)
+    	    - [byte[] 复用]()
     	    - [缓存问题](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/cache.md)
     	    - 堆外内存
     	    - gc分析
@@ -57,6 +59,7 @@
     - 容器化技术
         - cgroup
         - docker
+        - vmware
         	        
 - 其他：
     - java 高性能的那点事
@@ -74,7 +77,7 @@
         - 无状态计算
         - MR
         - 流式计算
-    - 分布式存储    
+    - 分布式存储
         - 副本机制
             - 一致性
                 - CAP
@@ -82,10 +85,18 @@
                 - PAXOS
             	- RAFT
             	- 基于队列
-- 稳定性
+            	- 幂等
+- 自我保护
+```你的系统在非正常状态下的正常运行的能力（正常状态下没几个出问题的，除非bug）```
+    - [AWS的Design for failure](https://www.slideshare.net/AmazonWebServices/best-practices-for-architecting-in-the-cloud-jeff-barr/20-5_Think_Parallel_Serial_and)
     - 峰值流量处理
-        - 降级熔断限流
+        - 降级
+        - 熔断
+        - 限流
         - 写入缓冲
+        - 平滑扩容
+    - 网络故障-异地多活
+- 异常情况快速处理
     - 监控与报警与日志（重要重要重要，不重视监控系统的公司，一定是对技术有误解的公司）
     
 
@@ -100,10 +111,11 @@
 - 时序数据库
     - opentsdb
     - druid
-    - 
+    - influxdb
+    
 ## 算法 ##
 ```如何更快的执行你的业务逻辑+锻炼你的程序员大脑```
--工程用的多的
+- 工程用的多的
     - array&链表
     - 哈希表
     - 红黑树
@@ -111,7 +123,11 @@
     - 布隆过滤器
     - 杨氏矩阵
     - bitmap
--其余的
+    - 时间轮
+- 其余的
+
+# 大数据 #
+- 空白
 
 ## [代码设计](https://github.com/whodarewin/knowledge_hierarchy/blob/master/code/design.md)
 ```如何解决代码后续可读性，维护性问题```
@@ -127,6 +143,8 @@
     - 单体架构
     - SOA
     - 微服务
+    - 烟筒架构与中台架构
+    
 
 # 流程 #
 - 故障处理流程
@@ -151,3 +169,6 @@
 - 队列系统
 - 分布式调度系统
 - 分布式配置系统
+
+## 后续计划看的
+[弹力设计-希望能重新穿一遍分布式系统](http://www.360doc.com/content/18/0305/08/53055196_734370489.shtml/)
