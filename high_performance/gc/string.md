@@ -7,4 +7,5 @@
     举例说明：
     我们每次去redis里面查询数据，都需要手工拼接一个key，每次拼接key，创建StringBuilder耗费空间，这时使用Thread绑定的StringBuilder创建，节省内存。
     注：线程绑定StringBuilder可使用ThreadLocal。
-### 
+### String.intern()
+    

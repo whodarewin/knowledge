@@ -19,7 +19,7 @@
 	    - [NIO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/NIO.md)
 	    - [AIO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/AIO.md)
 	    - [IO设计模式](http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/design.md)
-	    - 零拷贝
+	    - [零拷贝](http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/zero-copy.md)
 	    - 顺序读写
 	    - 缓存
 	        - 缓存分层
@@ -53,7 +53,7 @@
     	    - [String对象处理](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/string.md)
     	    - [byte[] 复用]()
     	    - [缓存问题](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/cache.md)
-    	    - 堆外内存
+    	    - 堆外内存及其回收
     	    - gc分析
 - linux 
     - 容器化技术
