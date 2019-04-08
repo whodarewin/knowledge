@@ -20,3 +20,7 @@
 ### 工程映射
     java nio层，使用epoll实现，水平触发。
     基于java nio的netty框架。
+### 关于netty的碎碎念
+#### 为啥netty设置DEFAULT_IO_THREAD 为cpu*2?
+    https://github.com/grpc/grpc-java/issues/2123
+    https://en.wikipedia.org/wiki/Hyper-threading
