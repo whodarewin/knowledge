@@ -167,6 +167,7 @@
 - 关于中国制造2025级程序员35岁后发展前途的问题
 - 创新，创新的作用，去哪里做创新。
 - 程序员写博客：觉得自己什么都懂，写起来发现什么都不懂
+- 关于放权：你给我任务，我给你结果，但你却连监控要怎么加都指导一下，又因为具体了解的少，无法落地
 
 ## [关于技术的落地](https://github.com/whodarewin/knowledge_hierarchy/blob/master/achievement/achievement.md)
 
