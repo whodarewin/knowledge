@@ -65,14 +65,14 @@
 - 其他：
     - java 高性能的那点事
         - [wait notify的不足与LockSupport的应用](https://issues.apache.org/jira/browse/HBASE-21628)
-    - 高性能存在的窘态
+    - [高性能存在的窘态](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/embarrassed.md)
     - 进行性能分析的工具
     
 ## 高可用 ##
 - 分布式
 ```如何解决单机无法解决的问题（稳定性，高计算量）```
     - 基础
-        - [数据传输](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/transfer.md)
+        - [数据传输](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/gc/transfer.md)
         - 负载均衡
         - 有状态与无状态
     - 分布式计算
