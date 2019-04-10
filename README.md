@@ -20,7 +20,7 @@
 	    - [AIO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/AIO.md)
 	    - [IO设计模式](http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/design.md)
 	    - [零拷贝](http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/zero-copy.md)
-	    - 顺序读写
+	    - [顺序读写](http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/SEQ.md)
 	    - 缓存
 	        - 缓存分层
 	        - 缓存一致性问题
