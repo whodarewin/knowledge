@@ -40,7 +40,7 @@
 		    - 传统悲观锁
 		    - cas锁机制
 		    - [死锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/dead_lock.md)
-		    - 线程数计算
+	    - 线程数计算
 	    - 异步编程之于IO
 	        - 介绍
 	        - 基于队列的快速回调
@@ -160,7 +160,6 @@
 - 目标与杂事
 - 故障驱动型优化
 - 假头脑风暴
-- MD比doc好用
 - 一个有经验的程序员真的顶好几个无经验的程序员吗？
 - 形式主义与实用主义
 - 架构师为何喜欢看别人的分享：使用别人的经验降低自己的试错成本及必须要注意的问题
