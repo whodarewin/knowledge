@@ -66,7 +66,6 @@
     - java 高性能的那点事
         - [wait notify的不足与LockSupport的应用](https://issues.apache.org/jira/browse/HBASE-21628)
         - [误用LinkedTransferQueue导致的OOM](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/LinkedTransferQueue_OOM.md)
-        - [LinkedBlocingQueue 小容量导致的性能问题]()
     - [高性能存在的窘态](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/embarrassed.md)
     - 进行性能分析的工具
     
@@ -158,7 +157,7 @@
 
 ## 程序员的日常
 ```方法论与屁事碎碎念```
-- 心态的稳定
+- [心态的稳定](https://github.com/whodarewin/knowledge_hierarchy/blob/master/daily/mentality.md)
 - 目标与杂事
 - 故障驱动型优化
 - 假头脑风暴
