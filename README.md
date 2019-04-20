@@ -116,7 +116,7 @@
     - opentsdb
     - druid
     - influxdb
-    
+
 ## 算法 ##
 ```如何更快的执行你的业务逻辑+锻炼你的程序员大脑```
 - 工程用的多的
@@ -170,6 +170,16 @@
 - 关于放权：你给我任务，我给你结果，但你却连监控要怎么加都指导一下，又因为具体了解的少，无法落地
 
 ## [关于技术的落地](https://github.com/whodarewin/knowledge_hierarchy/blob/master/achievement/achievement.md)
+
+## 工具 ##
+- JRE,JVM
+- SPRING
+- 分布式协调
+    - zookeeper
+    - etcd
+- 网络通讯
+    - netty
+    - http-client
 
 ## 常用工程架构
 - rpc系统
