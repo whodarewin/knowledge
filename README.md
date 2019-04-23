@@ -117,7 +117,7 @@
     - opentsdb
     - druid
     - influxdb
-    
+
 ## 算法 ##
 ```如何更快的执行你的业务逻辑+锻炼你的程序员大脑```
 - 工程用的多的
@@ -172,6 +172,16 @@
 - 关于面试：你想要考察的是什么
 
 ## [关于技术的落地](https://github.com/whodarewin/knowledge_hierarchy/blob/master/achievement/achievement.md)
+
+## 工具 ##
+- JRE,JVM
+- SPRING
+- 分布式协调
+    - zookeeper
+    - etcd
+- 网络通讯
+    - netty
+    - http-client
 
 ## 常用工程架构
 - rpc系统
