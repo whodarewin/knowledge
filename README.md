@@ -22,7 +22,7 @@
 	    - [零拷贝](http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/zero-copy.md)
 	    - [顺序读写](http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/SEQ.md)
 	    - 缓存
-	        - 缓存设计
+	        - (缓存设计)(http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/cache_layer.md)
 	        - 缓存一致性问题
 	        - [缓存推荐](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/cache_recommend.md)
 
