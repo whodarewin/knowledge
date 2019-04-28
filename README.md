@@ -74,7 +74,7 @@
 - 分布式
 ```如何解决单机无法解决的问题（稳定性，高计算量）```
     - 基础
-        - [数据传输](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/gc/transfer.md)
+        - [数据传输](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/transfer.md)
         - 负载均衡
         - 有状态与无状态
     - 分布式计算
@@ -83,13 +83,13 @@
         - 流式计算
     - 分布式存储
         - 副本机制
-            - 一致性
-                - CAP
-                - BASE理论
-                - PAXOS
-            	- RAFT
-            	- 基于队列
-            	- 幂等
+        - 一致性
+            - CAP
+            - BASE理论
+            - PAXOS
+            - RAFT
+            - 基于队列
+            - 幂等
 - 自我保护
 ```你的系统在非正常状态下的正常运行的能力（正常状态下没几个出问题的，除非bug）```
     - [AWS的Design for failure](https://www.slideshare.net/AmazonWebServices/best-practices-for-architecting-in-the-cloud-jeff-barr/20-5_Think_Parallel_Serial_and)
