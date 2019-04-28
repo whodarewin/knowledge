@@ -1,8 +1,8 @@
-# http
+# http {#hcc}
 
 ## 简介
 
-  http协议是Hyper Text Transfer Protocol\(超文本传输协议\)的缩写，用于从万维网  
+http协议是Hyper Text Transfer Protocol\(超文本传输协议\)的缩写，用于从万维网  
 服务器传输超文本到本地浏览器的传送协议。  
   Http是一个属于应用层的面向对象的协议，于1990年提出，现在迭代到2.0版本，并有  
 诸如Quic协议等还在发展中的协议。
