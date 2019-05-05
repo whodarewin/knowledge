@@ -6,3 +6,4 @@
 
 ![mat 分析](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/sample/jedis_mat.png)
 
+&emsp;&emsp;进一步分析，byte[]数组来自于
