@@ -6,15 +6,14 @@
 
 ## 软件评价体系
 
-```如何量化你的软件\`\`\`
+`如何量化你的软件`
 - [QPS,SLA...](https://github.com/whodarewin/knowledge_hierarchy/blob/master/evaluation/evaluation.md)
 - [其余代码检测工具](https://github.com/whodarewin/knowledge_hierarchy/blob/master/evaluation/tool.md)
 
 ## 高性能 ##
 
 - IO
-```如何使用最少的资源，从IO设备搬运最多的字节
-```
+`如何使用最少的资源，从IO设备搬运最多的字节`
 
 * [物理层的演进](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/physical_layer.md)
 * 协议层的演进
@@ -114,7 +113,7 @@
 
 ## 数据库
 
-```如何解决数据快速落地与个性化查询的问题\`\`\`
+`如何解决数据快速落地与个性化查询的问题`
 - 传统关系型数据库
     - BTree
 - KV数据库
@@ -127,8 +126,7 @@
     - influxdb
 
 ## 算法 ##
-```如何更快的执行你的业务逻辑+锻炼你的程序员大脑
-```
+`如何更快的执行你的业务逻辑+锻炼你的程序员大脑`
 
 * 工程用的多的
   * array&链表
@@ -147,14 +145,13 @@
 
 ## [代码设计](https://github.com/whodarewin/knowledge_hierarchy/blob/master/code/design.md)
 
-```如何解决代码后续可读性，维护性问题\`\`\`
+`如何解决代码后续可读性，维护性问题`
 - 基于领域模型的代码设计
 - 性能与设计的权衡
 - 代码设计的窘态
 
 ## 团队合作
-```如何在技术上激发各个团队人员的积极性，降低沟通成本
-```
+`如何在技术上激发各个团队人员的积极性，降低沟通成本`
 
 * 工作流程
   * git工作流
