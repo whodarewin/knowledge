@@ -61,7 +61,7 @@
       * [byte\[\] 复用]()
       * [缓存问题](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/cache.md)
       * 堆外内存及其回收
-      * gc分析案例
+      * [gc分析案例](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/sample/README.md)
 * linux
 
   * 容器化技术
