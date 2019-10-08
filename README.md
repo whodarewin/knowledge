@@ -184,7 +184,7 @@
 * 程序员写博客：觉得自己什么都懂，写起来发现什么都不懂
 * [架构师应该做什么](https://github.com/whodarewin/knowledge_hierarchy/blob/master/daily/dutyOfArchitect.md)
 * [关于放权：你给我任务，我给你结果，但你却连监控要怎么加都指导一下，又因为具体了解的少，无法落地](https://github.com/whodarewin/knowledge_hierarchy/blob/master/daily/trust.md)
-* 关于面试：你想要考察的是什么
+* [关于面试：你想要考察的是什么](https://github.com/whodarewin/knowledge_hierarchy/blob/master/daily/job_interview.md)
 
 ## [关于技术的落地](https://github.com/whodarewin/knowledge_hierarchy/blob/master/achievement/achievement.md)
 
