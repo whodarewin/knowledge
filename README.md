@@ -27,17 +27,14 @@
   * [顺序读写](http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/SEQ.md)
   * 缓存
     * [缓存设计](http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/cache_layer.md)
-    * 缓存一致性问题
+    * [缓存一致性问题](http://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/io/cache_consistent.md)
     * [缓存推荐](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/cache_recommend.md)
 
 * CPU
   `如何让CPU更快的运算你的逻辑`
   * CPU的演进
-    * 乱序执行
-    * 可见性
-    * 缓存行
-    * 超线程
-  * CODER的奋斗
+    
+  * 如何让代码亲和底层硬件
     * 缓冲行填充
     * 并发：
     * 锁竞争
@@ -173,7 +170,7 @@
 
 ## 程序员的日常
 
-`方法论与屁事碎碎念`
+`方法论与杂事碎碎念`
 
 * [心态的稳定](https://github.com/whodarewin/knowledge_hierarchy/blob/master/daily/mentality.md)
 * 目标与杂事
@@ -185,6 +182,7 @@
 * 关于中国制造2025级程序员35岁后发展前途的问题
 * 创新，创新的作用，去哪里做创新。
 * 程序员写博客：觉得自己什么都懂，写起来发现什么都不懂
+* [架构师应该做什么](https://github.com/whodarewin/knowledge_hierarchy/blob/master/daily/dutyOfArchitect.md)
 * [关于放权：你给我任务，我给你结果，但你却连监控要怎么加都指导一下，又因为具体了解的少，无法落地](https://github.com/whodarewin/knowledge_hierarchy/blob/master/daily/trust.md)
 * 关于面试：你想要考察的是什么
 
