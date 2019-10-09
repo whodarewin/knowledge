@@ -90,7 +90,7 @@
     * 一致性
       * CAP
       * BASE理论
-      * PAXOS
+      * [PAXOS](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/store/consistency/paxos.md)
       * RAFT
       * 基于队列
       * 幂等
@@ -179,7 +179,7 @@
 * 一个有经验的程序员真的顶好几个无经验的程序员吗？
 * 形式主义与实用主义
 * 架构师为何喜欢看别人的分享：使用别人的经验降低自己的试错成本及必须要注意的问题
-* 关于中国制造2025级程序员35岁后发展前途的问题
+* 关于中国制造2025以及程序员35岁后发展前途的问题
 * 创新，创新的作用，去哪里做创新。
 * 程序员写博客：觉得自己什么都懂，写起来发现什么都不懂
 * [架构师应该做什么](https://github.com/whodarewin/knowledge_hierarchy/blob/master/daily/dutyOfArchitect.md)
