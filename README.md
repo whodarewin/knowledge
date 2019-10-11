@@ -35,11 +35,10 @@
   * CPU的演进
     
   * 如何让代码亲和底层硬件
-    * 缓冲行填充
+    * [缓冲行填充](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/cpu/cache_line.md)
     * 并发：
     * 锁竞争
-      * 传统悲观锁
-      * cas锁机制
+      * 悲观锁与乐观锁
       * [死锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/dead_lock.md)
     * 线程数计算
     * 异步编程之于IO
