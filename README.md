@@ -43,13 +43,13 @@
       * [死锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/dead_lock.md)
     * 线程数计算
     * 异步编程之于IO
-      * 介绍
+      * [介绍](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/cpu/async_io.md)
       * 基于队列的快速回调
 * java 优化
   * java 性能分析
     * 锁竞争
     * 方法执行时长
-    * JVM运行时优化-JVM的预热
+    * JVM运行时优化(JIT)-JVM的预热
   * GC
     * GC优化的原则
       * 垃圾回收器
