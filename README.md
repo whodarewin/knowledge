@@ -41,9 +41,7 @@
       * [悲观锁与乐观锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/pessimistic_optimistic_lock.md)
       * [死锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/dead_lock.md)
     * 线程数计算
-    * 异步编程之于IO
-      * [介绍](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/cpu/async_io.md)
-      * 基于队列的快速回调
+    * [异步编程之于IO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/cpu/async_io.md)
 * java 优化
   * java 性能分析
     * 锁竞争
@@ -209,4 +207,7 @@
 ## 后续计划看的
 
 [弹力设计-希望能重新穿一遍分布式系统](http://www.360doc.com/content/18/0305/08/53055196_734370489.shtml)
+
+## 待整理
+[待整理](https://github.com/whodarewin/knowledge_hierarchy/blob/master/todo.md)
 
