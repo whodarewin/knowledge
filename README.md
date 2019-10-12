@@ -38,7 +38,7 @@
     * [缓冲行填充](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/cpu/cache_line.md)
     * 并发：
     * 锁竞争
-      * 悲观锁与乐观锁
+      * [悲观锁与乐观锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/pessimistic_optimistic_lock.md)
       * [死锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/dead_lock.md)
     * 线程数计算
     * 异步编程之于IO
