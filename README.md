@@ -36,7 +36,7 @@
     
   * 如何让代码亲和底层硬件
     * [缓冲行填充](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/cpu/cache_line.md)
-    * 并发：
+    * [并发](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/cpu/concurrent.md)
     * 锁竞争
       * [悲观锁与乐观锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/pessimistic_optimistic_lock.md)
       * [死锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/dead_lock.md)
