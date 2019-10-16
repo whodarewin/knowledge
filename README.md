@@ -40,7 +40,7 @@
     * 锁竞争
       * [悲观锁与乐观锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/pessimistic_optimistic_lock.md)
       * [死锁](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/lock/dead_lock.md)
-    * 线程数计算
+    * [线程数计算](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/cpu/thread_count.md)
     * [异步编程之于IO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/cpu/async_io.md)
 * java 优化
   * java 性能分析
