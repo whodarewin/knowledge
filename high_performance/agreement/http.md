@@ -1,4 +1,4 @@
-# http {#hcc}
+# http
 
 ## 简介
 
