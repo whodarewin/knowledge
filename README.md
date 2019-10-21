@@ -44,7 +44,7 @@
     * [异步编程之于IO](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/cpu/async_io.md)
 * java 优化
   * java 性能分析
-    * 锁竞争
+    * [锁竞争](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/java/lock_compete.md)
     * 方法执行时长
     * JVM运行时优化(JIT)-JVM的预热
     * [ForkJoinPool](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/fork_join_pool.md)
