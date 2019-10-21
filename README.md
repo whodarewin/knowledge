@@ -47,6 +47,7 @@
     * 锁竞争
     * 方法执行时长
     * JVM运行时优化(JIT)-JVM的预热
+    * [ForkJoinPool](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/fork_join_pool.md)
   * GC
     * GC优化的原则
       * 垃圾回收器
