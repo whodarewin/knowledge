@@ -98,7 +98,7 @@
   * 峰值流量处理
     * 降级
     * 熔断
-    * 限流
+    * [限流](https://github.com/whodarewin/knowledge_hierarchy/blob/master/protect/limit.md)
     * 写入缓冲
     * 平滑扩容
   * 网络故障
