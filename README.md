@@ -85,7 +85,7 @@
     * 流式计算
   * 分布式存储
     * 副本机制
-    * 一致性
+    * 共识机制
       * CAP
       * BASE理论
       * [PAXOS](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/store/consistency/paxos.md)
