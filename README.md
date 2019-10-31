@@ -45,7 +45,7 @@
 * java 优化
   * java 性能分析
     * [锁竞争](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/java/lock_compete.md)
-    * 方法执行时长
+    * [方法执行时长]()
     * JVM运行时优化(JIT)-JVM的预热
     * [ForkJoinPool](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/other/fork_join_pool.md)
   * GC
@@ -90,7 +90,6 @@
       * BASE理论
       * [PAXOS](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/store/consistency/paxos.md)
       * RAFT
-      * 基于队列
       * 幂等
 * 自我保护
   `你的系统在非正常状态下的正常运行的能力（正常状态下没几个出问题的，除非bug）`
@@ -203,6 +202,9 @@
 * 分布式调度系统
 * 分布式配置系统
 * session 通信
+
+## 论文计划
+
 
 ## 后续计划看的
 
