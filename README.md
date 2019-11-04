@@ -103,10 +103,11 @@
   * 网络故障
     * 异地多活
 * 异常情况快速处理
-  * 监控与报警与日志（重要重要重要，不重视监控系统的公司，一定是对技术有误解的公司）
-## 事物
+  * [监控,日志，trace（重要重要重要，不重视监控系统的公司，一定是对技术有误解的公司）](https://github.com/whodarewin/knowledge_hierarchy/blob/master/protect/exception.md)
+## 事务
 - [本机事物的一般实现机制](https://github.com/whodarewin/knowledge_hierarchy/blob/master/transaction/normal.md)
 - [分布式事务](https://github.com/whodarewin/knowledge_hierarchy/blob/master/transaction/disrupted.md)
+- google Percolator
 ## 数据库
 
 `如何解决数据快速落地与个性化查询的问题`
@@ -203,7 +204,13 @@
 * 分布式配置系统
 * session 通信
 
-## 论文计划
+## 论文
+* google 三驾马车
+* megastore
+* spanner
+* F1
+* Dynamo
+* Aurora
 
 
 ## 后续计划看的
