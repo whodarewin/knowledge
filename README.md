@@ -54,7 +54,7 @@
       * [String对象处理](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/string.md)
       * [byte\[\] 复用]()
       * [缓存问题](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/cache.md)
-      * [堆外内存及其回收](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/)
+      * [堆外内存及其回收](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/out_heap.md)
       * [gc locker](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/gc_locker.md)
       * [gc分析案例](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/gc/sample/README.md)
 * linux
