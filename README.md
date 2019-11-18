@@ -79,7 +79,7 @@
   * 基础
     * [数据传输](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/transfer.md)
     * [负载均衡](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/load_balance.md)
-    * 有状态与无状态
+    * [有状态与无状态](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/state.md)
   * 分布式计算
     * 无状态计算
     * MR
