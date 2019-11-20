@@ -81,8 +81,7 @@
     * [负载均衡](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/load_balance.md)
     * [有状态与无状态](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/state.md)
   * 分布式计算
-    * 无状态计算
-    * MR
+    * [C/S 模型](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_availability/cal/cs.md)
     * 流式计算
   * 分布式存储
     * 副本机制
