@@ -12,6 +12,8 @@
 
 ## 高性能 ##
 
+- [性能优化](https://github.com/whodarewin/knowledge_hierarchy/blob/master/high_performance/how.md)
+
 - IO
 `如何使用最少的资源，从IO设备搬运最多的字节`
 
